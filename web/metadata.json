@@ -1,0 +1,5 @@
+{
+  "name": "AI Runtime Debugger Visualizer",
+  "description": "An interactive web application that visually simulates and explains the concepts of an AI-enhanced runtime debugger based on the Debug Adapter Protocol (DAP), as detailed in the user's proposal.",
+  "requestFramePermissions": []
+}
